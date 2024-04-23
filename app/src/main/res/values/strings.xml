@@ -16,4 +16,10 @@
     <string name="phone_number">Phone number</string>
     <string name="log_in">Log in</string>
     <string name="email_or_phone">Email or phone</string>
+    <string name="PlanTodo">Enter your email then click on the \'send password\' button. You should receive a message by email informing you that your password has been changed.</string>
+    <string name="send_password">Send password</string>
+    <string name="all">All</string>
+    <string name="all_food">All food</string>
+    <string name="hot_food">Hot food</string>
+    <string name="desert">Desert</string>
 </resources>

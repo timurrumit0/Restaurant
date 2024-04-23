@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/log_in"
-        android:textSize="30dp"
+        android:textSize="30sp"
         android:gravity="center"
         android:layout_marginTop="200dp"
         android:layout_marginStart="10dp"
@@ -39,7 +39,6 @@
         android:layout_margin="10dp"
         android:ems="10"
         android:hint="@string/password"
-        android:inputType="text"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/editTextEmailaPhoneLogin" />
